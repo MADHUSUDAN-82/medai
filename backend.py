@@ -68,7 +68,7 @@ chatbot = RunnableSequence(parallel_chain, prompt, model, parser)
 app = Flask(__name__)
 CORS(app, resources={
     r"/*": {
-        "origins": ["http://localhost:3000", "http://127.0.0.1:3000"]
+        "origins": ["http://localhost:3000", "http://127.0.0.1:3000", "https://medaiui.vercel.app"]
     }
 })
 
