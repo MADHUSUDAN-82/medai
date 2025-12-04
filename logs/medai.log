@@ -1,0 +1,195 @@
+2025-12-04 13:32:19,762 - INFO - symptoms of anaemia
+2025-12-04 13:32:23,795 - INFO - Weakness, fatigue, and a run-down feeling may be signs of mild anemia. Skin that is pasty or sallow, or lack of color in the creases of the palm, gums, nail beds, or lining of the eyelids are other signs of anemia. Someone who is weak, tires easily, is often out of breath, and feels faint or dizzy may be severely anemic.
+
+Other symptoms of anemia are:
+*   angina pectoris (chest pain, often accompanied by a choking sensation that provokes severe anxiety)
+*   cravings for ice, paint, or dirt
+*   headache
+*   inability to concentrate, memory loss
+*   inflammation of the mouth (stomatitis) or tongue (glossitis)
+*   insomnia
+*   irregular heartbeat
+*   loss of appetite
+*   nails that are dry, brittle, or ridged
+*   rapid breathing
+*   sores in the mouth, throat, or rectum
+*   sweating
+*   swelling of the hands and feet
+*   thirst
+*   tinnitus (ringing in the ears)
+*   unexplained bleeding or bruising
+2025-12-04 13:32:59,945 - ERROR - Please send JSON with a 'question' field.
+2025-12-04 13:38:00,057 - ERROR - Please send JSON with a 'question' field.
+2025-12-04 13:40:02,447 - ERROR - Please send JSON with a 'question' field.
+2025-12-04 13:41:31,325 - INFO - symptoms of anaemia
+2025-12-04 13:42:34,766 - ERROR - 404 models/gemini-2.5-flash-exp is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-12-04 13:53:28,830 - INFO - cause of cancer
+2025-12-04 13:54:34,802 - INFO - cause of cancer
+2025-12-04 13:54:37,579 - INFO - I don't know.
+2025-12-04 13:55:20,154 - INFO - cause of anaemia
+2025-12-04 13:55:21,974 - INFO - Anemia is caused by bleeding, decreased red blood cell production, or increased red blood cell destruction.
+2025-12-04 14:26:17,459 - INFO - cause of anaemia
+2025-12-04 14:26:19,423 - INFO - Anemia is caused by bleeding, decreased red blood cell production, or increased red blood cell destruction.
+2025-12-04 14:48:02,626 - INFO - cause of anaemia
+2025-12-04 14:48:05,211 - INFO - Anemia is caused by bleeding, decreased red blood cell production, or increased red blood cell destruction.
+2025-12-04 14:52:33,814 - INFO - User asked: cause and symptoms of high blood pressure
+2025-12-04 14:52:38,805 - INFO - Chunk: Symptoms of high blood pressure include headaches. High blood pressure can be caused by the retention of fluids and wastes, which increases blood volume, and by certain medicines, such as some cold remedies. High blood pressure may also occur as a complication of acute kidney failure
+2025-12-04 14:52:38,805 - INFO - Chunk: .
+2025-12-04 14:55:41,913 - INFO - symptoms of anaemia
+2025-12-04 14:55:46,275 - INFO - Symptoms of anemia include:
+* Weakness
+* Fatigue
+* Run-down feeling
+* Skin that is pasty or sallow
+* Lack of color in the creases of the palm, gums, nail beds, or lining of the eyelids
+* Tires easily
+* Often out of breath
+* Feels faint or dizzy
+* Angina pectoris (chest pain, often accompanied by a choking sensation that provokes severe anxiety)
+* Cravings for ice, paint, or dirt
+* Headache
+* Inability to concentrate, memory loss
+* Inflammation of the mouth (stomatitis) or tongue (glossitis)
+* Insomnia
+* Irregular heartbeat
+* Loss of appetite
+* Nails that are dry, brittle, or ridged
+* Rapid breathing
+* Sores in the mouth, throat, or rectum
+* Sweating
+* Swelling of the hands and feet
+* Thirst
+* Tinnitus (ringing in the ears)
+* Unexplained bleeding or bruising
+2025-12-04 14:57:53,814 - INFO - cause of anaemia
+2025-12-04 14:57:55,569 - INFO - Anemia is caused by bleeding, decreased red blood cell production, or increased red blood cell destruction. Poor diet can contribute to vitamin deficiency and iron deficiency anemias. Hereditary disorders and certain diseases can cause increased blood cell destruction. Excessive bleeding is the most common cause of anemia.
+2025-12-04 14:58:14,042 - INFO - symptoms of anaemia
+2025-12-04 14:58:16,719 - INFO - Weakness, fatigue, and a run-down feeling may be signs of mild anemia. Skin that is pasty or sallow, or lack of color in the creases of the palm, gums, nail beds, or lining of the eyelids are other signs of anemia. Someone who is weak, tires easily, is often out of breath, and feels faint or dizzy may be severely anemic.
+
+Other symptoms of anemia are:
+*   angina pectoris (chest pain, often accompanied by a choking sensation that provokes severe anxiety)
+*   cravings for ice, paint, or dirt
+*   headache
+*   inability to concentrate, memory loss
+*   inflammation of the mouth (stomatitis) or tongue (glossitis)
+*   insomnia
+*   irregular heartbeat
+*   loss of appetite
+*   nails that are dry, brittle, or ridged
+*   rapid breathing
+*   sores in the mouth, throat, or rectum
+*   sweating
+*   swelling of the hands and feet
+*   thirst
+*   tinnitus (ringing in the ears)
+*   unexplained bleeding or bruising
+2025-12-04 14:59:26,994 - INFO - cause of anaemia
+2025-12-04 14:59:29,041 - INFO - Anemia is caused by bleeding, decreased red blood cell production, or increased red blood cell destruction. Poor diet can contribute to vitamin deficiency and iron deficiency anemias. Hereditary disorders and certain diseases can cause increased blood cell destruction. Excessive bleeding is the most common cause of anemia.
+2025-12-04 14:59:39,222 - INFO - synptoms of anaemia
+2025-12-04 14:59:41,841 - INFO - Symptoms of anemia are:
+*   Weakness
+*   Fatigue
+*   Run-down feeling
+*   Pasty or sallow skin
+*   Lack of color in the creases of the palm, gums, nail beds, or lining of the eyelids
+*   Tires easily
+*   Often out of breath
+*   Feels faint or dizzy
+*   Angina pectoris (chest pain, often accompanied by a choking sensation that provokes severe anxiety)
+*   Cravings for ice, paint, or dirt
+*   Headache
+*   Inability to concentrate
+*   Memory loss
+*   Inflammation of the mouth (stomatitis) or tongue (glossitis)
+*   Insomnia
+*   Irregular heartbeat
+*   Loss of appetite
+*   Nails that are dry, brittle, or ridged
+*   Rapid breathing
+*   Sores in the mouth, throat, or rectum
+*   Sweating
+*   Swelling of the hands and feet
+*   Thirst
+*   Tinnitus (ringing in the ears)
+*   Unexplained bleeding or bruising
+*   Tiny reddish-purple marks (petechiae) on the skin
+*   Evidence of abnormal bruising
+*   Bleeding from the gums, nose, intestine, or vagina
+*   Pale appearance
+*   Increase in heart rate
+*   Sudden appearance of a new heart murmur
+2025-12-04 15:03:06,491 - INFO - cause of anaemia
+2025-12-04 15:03:08,316 - INFO - Anemia is caused by bleeding, decreased red blood cell production, or increased red blood cell destruction.
+2025-12-04 15:04:31,858 - INFO - cause of anaemia
+2025-12-04 15:04:33,602 - INFO - Anemia is caused by bleeding, decreased red blood cell production, or increased red blood cell destruction.
+2025-12-04 15:04:42,356 - INFO - symptoms of anaemia
+2025-12-04 15:04:44,725 - INFO - Weakness, fatigue, a run-down feeling, pasty or sallow skin, lack of color in the creases of the palm, gums, nail beds, or lining of the eyelids, easily tiring, being often out of breath, feeling faint or dizzy, angina pectoris, cravings for ice, paint, or dirt, headache, inability to concentrate, memory loss, inflammation of the mouth (stomatitis) or tongue (glossitis), insomnia, irregular heartbeat, loss of appetite, nails that are dry, brittle, or ridged, rapid breathing, sores in the mouth, throat, or rectum, sweating, swelling of the hands and feet, thirst, tinnitus (ringing in the ears), and unexplained bleeding or bruising.
+2025-12-04 15:05:03,593 - INFO - cause ans symptoms of high blood pressure
+2025-12-04 15:05:06,756 - INFO - Causes:
+*   The retention of fluids and wastes causes blood volume to increase, which makes blood pressure rise.
+
+Symptoms:
+*   Headaches
+2025-12-04 15:07:17,400 - INFO - cause of anaemia
+2025-12-04 15:07:20,143 - INFO - Anemia is caused by bleeding, decreased red blood cell production, or increased red blood cell destruction. Anemia also develops when heavy bleeding causes significant iron loss or when something happens to slow down the production of red blood cells or to increase the rate at which they are destroyed.
+2025-12-04 15:07:22,314 - INFO - symptoms of anaemia
+2025-12-04 15:07:26,180 - INFO - Symptoms of anemia are:
+*   Weakness
+*   Fatigue
+*   Run-down feeling
+*   Pasty or sallow skin
+*   Lack of color in the creases of the palm, gums, nail beds, or lining of the eyelids
+*   Tires easily
+*   Often out of breath
+*   Feels faint or dizzy
+*   Angina pectoris (chest pain, often accompanied by a choking sensation that provokes severe anxiety)
+*   Cravings for ice, paint, or dirt
+*   Headache
+*   Inability to concentrate
+*   Memory loss
+*   Inflammation of the mouth (stomatitis) or tongue (glossitis)
+*   Insomnia
+*   Irregular heartbeat
+*   Loss of appetite
+*   Nails that are dry, brittle, or ridged
+*   Rapid breathing
+*   Sores in the mouth, throat, or rectum
+*   Sweating
+*   Swelling of the hands and feet
+*   Thirst
+*   Tinnitus (ringing in the ears)
+*   Unexplained bleeding or bruising
+*   Tiny reddish-purple marks (petechiae) on the skin
+*   Evidence of abnormal bruising
+*   Bleeding from the gums, nose, intestine, or vagina
+*   Pale appearance
+*   Increase in heart rate (if anemia progresses)
+*   Sudden appearance of a new heart murmur (if anemia progresses)
+2025-12-04 15:08:16,485 - INFO - cause of anaemia
+2025-12-04 15:08:18,204 - INFO - Anemia is caused by bleeding, decreased red blood cell production, or increased red blood cell destruction.
+2025-12-04 15:08:25,269 - INFO - symptoms of anaemia
+2025-12-04 15:08:27,600 - INFO - Weakness, fatigue, and a run-down feeling may be
+signs of mild anemia. Skin that is pasty or sallow, or lack
+of color in the creases of the palm, gums, nail beds, or
+lining of the eyelids are other signs of anemia. Someone
+who is weak, tires easily, is often out of breath, and feels
+faint or dizzy may be severely anemic.
+Other symptoms of anemia are:
+• angina pectoris (chest pain, often accompanied by a
+choking sensation that provokes severe anxiety)
+• cravings for ice, paint, or dirt
+• headache
+• inability to concentrate, memory loss
+• inflammation of the mouth ( stomatitis ) or tongue
+(glossitis)
+• insomnia
+• irregular heartbeat
+• loss of appetite
+• nails that are dry, brittle, or ridged
+• rapid breathing
+• sores in the mouth, throat, or rectum
+• sweating
+• swelling of the hands and feet
+• thirst
+• tinnitus (ringing in the ears)
+• unexplained bleeding or bruising
