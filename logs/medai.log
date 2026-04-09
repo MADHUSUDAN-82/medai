@@ -193,3 +193,22 @@ choking sensation that provokes severe anxiety)
 • thirst
 • tinnitus (ringing in the ears)
 • unexplained bleeding or bruising
+2026-04-09 14:32:51,274 --- INFO --- cause of heartattack --- manager --- 41
+2026-04-09 14:33:42,538 --- ERROR --- 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} --- manager --- 54
+2026-04-09 14:33:59,256 --- INFO --- symptoms of heartattack --- manager --- 41
+2026-04-09 14:34:52,826 --- ERROR --- 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} --- manager --- 54
+2026-04-09 14:59:23,865 --- INFO --- casue of heartatteck --- manager --- 41
+2026-04-09 14:59:32,900 --- INFO --- I don't know. --- manager --- 41
+2026-04-09 14:59:49,057 --- INFO --- symptoms of heartattack --- manager --- 41
+2026-04-09 14:59:54,741 --- INFO --- I don't know. --- manager --- 41
+2026-04-09 15:05:15,198 --- INFO --- cause of heartattack --- manager --- 41
+2026-04-09 15:05:44,031 --- INFO --- I don't know. --- manager --- 41
+2026-04-09 15:06:47,929 --- INFO --- cause of headache --- manager --- 41
+2026-04-09 15:06:51,811 --- INFO --- Headaches can be caused by several factors depending on the underlying condition:
+*   Migraine is thought to be caused by electrical and chemical imbalances in certain parts of the brain.
+*   If a hemorrhage occurs from an AVM, it produces a sudden, severe headache.
+*   In patients with acromegaly, headaches can be caused by a pituitary adenoma pressing on nearby structures within the brain. --- manager --- 41
+2026-04-09 15:07:08,977 --- INFO --- symptoms of headache --- manager --- 41
+2026-04-09 15:07:58,659 --- ERROR --- 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} --- manager --- 54
+2026-04-09 15:08:53,508 --- INFO --- symptoms of headache --- manager --- 41
+2026-04-09 15:09:46,364 --- ERROR --- 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} --- manager --- 54

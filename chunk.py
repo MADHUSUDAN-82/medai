@@ -6,7 +6,7 @@ from langchain_community.document_loaders import PyPDFLoader
 
 load_dotenv()
 
-loader = PyPDFLoader("Medical_book.pdf")
+loader = PyPDFLoader("MedAi RAG/Medical_book.pdf")
 docs = loader.load()
 # print(len(docs))
 # print(docs[587].page_content)

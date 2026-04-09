@@ -73,7 +73,7 @@ CORS(app, resources={
 })
 
 
-logger = setup_logs(app,service="medai",telegram_chat_id=os.getenv("CHATID"))
+logger = setup_logs(app,service="medai",telegram_chat_id=os.getenv("CHATID"),telegram_bot_token=os.getenv("BOTTOKEN"))
 
 @app.route("/")
 def home():
@@ -111,5 +111,5 @@ def ask_question():
 # -------------------------------
 # START SERVER
 # -------------------------------
-# if __name__ == "__main__":
-#     app.run(debug=True, port=5000)
+if __name__ == "__main__":
+    app.run(debug=True, port=5000)
